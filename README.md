@@ -1,2 +1,2 @@
-# pastel-js
-Repositório de estudo de linguagem JavaScript
+# pastel-html
+Repositório de estudo de linguagem html
